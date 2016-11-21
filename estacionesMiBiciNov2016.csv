@@ -1,0 +1,234 @@
+bicipuerto,      status,      available-bikes,      capacity,      free-space,      long,      station-desc,      lat
+GDL-002,In Service,2,15,13,-103.366, C. Colonias esquina Av. Niños héroes,20.667228
+GDL-003,In Service,7,19,12,-103.368252, C. Vidrio esquina Av. Chapultepec,20.66769
+GDL-004,In Service,2,11,9,-103.36255, C. Ghilardi esquinaC. Miraflores,20.69175
+GDL-005,In Service,5,11,6,-103.338863, C. San Diego esquina Calzada Independencia,20.681151
+GDL-006,In Service,6,11,5,-103.3443801, C. Venustiano Carranza esquina C. Reforma,20.6807519
+GDL-007,In Service,4,15,11,-103.350562,C. Epigmenio Glez.esquinaAv. Cristobal C.,20.666771
+GDL-008,In Service,3,15,10,-103.350396, C. J. Angulo esquina C. González Ortega,20.681871
+GDL-009,In Service,0,19,19,-103.353835, Calz. Federalismoesquina C. J. Angulo,20.681984
+GDL-010,In Service,9,11,2,-103.357267, C. Cruz verde esquina C. Joaquin Angulo,20.681786
+GDL-011,In Service,7,11,4,-103.360099, C. Garibaldi esquina C. Frías,20.681081
+GDL-012,In Service,6,11,5,-103.36292, C. Joaquín Angulo esquina C. Ghilardi,20.681989
+GDL-013,In Service,3,11,7,-103.370499, C. Vidrio esquina C. Marsella,20.667623
+GDL-014,In Service,1,15,12,-103.365969,C. J. AnguloesquinaC. José Clemente Orozco,20.682059
+GDL-015,In Service,5,15,10,-103.369349, C. Herrera y Cairo esquina C. Pedro Buzeta,20.683191
+GDL-016,In Service,6,15,9,-103.372642,C. Bernardo de BalbuenaesquinaC. J. Angulo,20.682007
+GDL-017,In Service,12,15,2,-103.372841, Av. México esquina C. Bernardo de Balbuena,20.679086
+GDL-018,In Service,3,11,8,-103.370658, Av. México esquina C. Manuel M. Diéguez,20.679296
+GDL-019,In Service,0,19,19,-103.368045, C. Juan Manuel esquina C. Andrés Terán,20.678835
+GDL-020,In Service,6,15,9,-103.36573, C. Juan Manuel esquina C. General Coronado,20.678714
+GDL-021,In Service,9,15,6,-103.362224, C. Nicolás Romero esquina C. Reforma,20.67966
+GDL-022,In Service,9,15,6,-103.35913,C. San Felipe esquinaC. Enrique D. de León,20.679389
+GDL-023,In Service,8,15,7,-103.356281, C. Jesús esquina C. San Felipe,20.679309
+GDL-024,In Service,8,15,6,-103.354035, Av. Federalismo esquina C. Juan Manuel,20.678777
+GDL-025,In Service,15,15,0,-103.350146, C. Reforma esquina C. González Ortega,20.680227
+GDL-026,In Service,3,15,11,-103.348377, C. Pedro Loza esquina C. Reforma,20.680478
+GDL-027,In Service,11,11,0,-103.345198, C. Belén esquina C. San Felipe,20.679861
+GDL-028,In Service,3,11,8,-103.36113, C. Gregorio Dávila esquina C. Manuel Acuña,20.684187
+GDL-029,In Service,15,15,0,-103.339753,Calzada Independencia esquinaC. Juan Manuel,20.679505
+GDL-030,In Service,7,15,8,-103.367501, C. Pedro Morenoesquina C. Progreso,20.675461
+GDL-031,In Service,4,11,7,-103.368215, C. Hospital esquina C. Andrés Terán,20.685652
+GDL-032,In Service,13,15,1,-103.344908, Av. Hidalgo esquina C. Belén,20.6772627
+GDL-033,In Service,9,15,6,-103.347983, Av. Hidalgo esquina C. Pedro Loza,20.677419
+GDL-034,In Service,8,11,3,-103.350244, C. Morelos esquina C. Donato Guerra,20.676461
+GDL-035,In Service,7,11,4,-103.3534145, Andador Coronilla esquina Av. Hidalgo,20.677315
+GDL-036,In Service,3,19,16,-103.356458, C. Marcos Castellanosesquina C. Morelos,20.676078
+GDL-037,In Service,7,15,8,-103.358466, C. Juan N. Cumplido esquinaC. Independencia,20.678034
+GDL-038,In Service,5,15,10,-103.362331, C. Nicolás Romero esquina Av. Hidalgo,20.676656
+GDL-039,In Service,8,15,6,-103.365088, C. General Coronado esquina Av. Hidalgo,20.677108
+GDL-040,In Service,7,15,8,-103.367049, C. Morelos esquina C. Progreso,20.676067
+GDL-041,In Service,2,15,13,-103.37066, C. Manuel M. Diéguez esquina Av. Hidalgo,20.67671
+GDL-042,In Service,14,15,1,-103.372687, C. Bernardo de Balbuena esquina Av. Hidalgo,20.676628
+GDL-043,In Service,4,11,7,-103.372613, C. Simón Bolivar esquina C. López Cotilla,20.673756
+GDL-044,In Service,1,15,14,-103.371639,C. Gral. San Martín esquinaAv. Vallarta,20.674636
+GDL-045,In Service,16,19,2,-103.370147, C. Pedro Moreno esquina C. Marsella,20.675444
+GDL-046,In Service,10,11,1,-103.365025, C. Emerson esquina Av. Vallarta,20.675014
+GDL-047,In Service,3,15,12,-103.362351, C. Robles Gil esquina Av. Vallarta,20.674931
+GDL-048,In Service,10,15,5,-103.358548, C. Escorza esquina Av. Vallarta,20.674721
+GDL-049,In Service,4,33,29,-103.3548732, C. Marcos Castellanos esquinaAv. Vallarta,20.6745336
+GDL-050,In Service,14,23,9,-103.354579, C. Pedro Moreno esquina Calz. Federalismo,20.675746
+GDL-051,In Service,3,15,11,-103.352663, C. 8 de Julio esquina Av. Vallarta,20.674559
+GDL-052,In Service,14,23,9,-103.347889, Av. Vallarta esquina Av. 16 de Sep.,20.675244
+GDL-053,In Service,10,15,5,-103.345665, C. Maestranza esquina Av. Vallarta,20.675401
+GDL-054,In Service,16,23,7,-103.342049, Av. Vallarta esquina Calzada Independencia,20.675421
+GDL-055,In Service,2,15,13,-103.345366, C. Degollado esquina C. Prisciliano Sánchez,20.672696
+GDL-056,In Service,5,15,10,-103.347422, Av. 16 de Sept. esquina C. Miguel Blanco,20.671971
+GDL-057,In Service,7,11,4,-103.349573, C. Ocampo esquina C. Prisciliano Sánchez,20.672516
+GDL-058,In Service,7,11,4,-103.353542, C. Pavo esquina C. Prisciliano Sánchez,20.672641
+GDL-059,In Service,5,15,10,-103.355508, C. Miguel Blanco esquina C. Penitenciaria,20.672231
+GDL-060,In Service,4,23,19,-103.357684, C. Maderoesquina C. Camarena,20.6734
+GDL-061,In Service,5,19,14,-103.361274, C. Libertad esquina C. Argentina,20.671778
+GDL-062,In Service,13,15,2,-103.365055, C. Libertad esquina C. Moscú,20.673072
+GDL-063,In Service,22,23,1,-103.366139, C. Colonias esquina C. López Cotilla,20.674132
+GDL-064,In Service,14,19,5,-103.370571, C. Marsella esquina C. López Cotilla,20.673321
+GDL-065,In Service,4,15,9,-103.372584, C. Simón Bolivar esquina Av. La Paz,20.672372
+GDL-066,In Service,6,15,9,-103.371786,C. Lerdo de TejadaesquinaC. Gral. Sn Martín,20.671364
+GDL-067,In Service,0,19,19,-103.3555917, Calzada Federalismo esquina C. Vidrio,20.6668825
+GDL-068,In Service,8,19,11,-103.368306, C. Guadalupe Zuno esquina Av. Chapultepec,20.670512
+GDL-069,In Service,9,15,6,-103.366071, C. Colonias esquina C. Guadalupe Zuno,20.670468
+GDL-070,In Service,11,11,0,-103.363633, Av. La Paz esquina C. Juan de Ojeda,20.671455
+GDL-071,In Service,2,11,9,-103.359537, Av. La Paz esquina Av. Enrique Díaz de León,20.670362
+GDL-072,In Service,0,15,15,-103.357589, Av. La Paz esquina C. Camarena,20.67056
+GDL-073,In Service,2,19,17,-103.355032, Av. La Paz esquina Av. Federalismo,20.669955
+GDL-074,In Service,2,11,9,-103.351651, C. Enrique González esquina C. Libertad,20.67131
+GDL-075,In Service,3,11,8,-103.348768, C. Rio Seco esquina C. Nueva Galicia,20.669628
+GDL-076,In Service,6,15,9,-103.346195, C. Ramón Corona esquina C. Libertad,20.670243
+GDL-077,In Service,4,15,10,-103.36134, C. Argentina esquina C. Pedro Moreno,20.675631
+GDL-078,In Service,4,11,7,-103.346775, C. Comercio esquina C. La Paz,20.667946
+GDL-080,In Service,11,15,4,-103.373252, C. Manuel Acuña esquina Av. Américas,20.68432
+GDL-081,In Service,9,11,2,-103.363338, C. Venezuela esquina Av. Niños Héroes,20.667352
+GDL-082,In Service,8,15,7,-103.362535,C. Gdpe. MontenegroesquinaC. Nuño de Guzman,20.669326
+GDL-083,In Service,6,15,9,-103.3595222, C. Vidrio esquina Av. Enrique Díaz De León,20.667532
+GDL-084,In Service,5,19,14,-103.368312, C. Montenegro esquina Av. Chapultepec,20.669306
+GDL-085,In Service,8,15,6,-103.373378,C. Gdpe. Zunoesquina Av. Unión,20.670426
+GDL-086,In Service,4,15,11,-103.372444, C. Simón Bolivar esquina Av. Niños Héroes,20.66704
+ZPN-001,In Service,9,15,6,-103.396083, C. Emilio Carranza esquina Av. Carretera Tesistán,20.73244
+ZPN-002,In Service,1,11,9,-103.397466, C. Emilio Carranza esquina C. Independencia,20.726376
+ZPN-003,In Service,9,19,10,-103.398071, C. Emilio Carranza esquina Av. Hidalgo,20.723081
+ZPN-005,In Service,5,11,6,-103.394267, C. Del Corral esquina C. Anáhuac,20.730841
+ZPN-006,In Service,5,15,10,-103.395308, C. Independencia esquina C. Anáhuac,20.725815
+ZPN-007,In Service,6,19,13,-103.392672, C. Libertad esquina Nicolás Bravo,20.726196
+ZPN-008,In Service,9,19,10,-103.39427, C. Vicente Guerrero esquina Av. Hidalgo,20.72201
+ZPN-010,In Service,6,11,5,-103.394585, C. Ramón Corona esquina C. Cuauhtémoc,20.723889
+ZPN-011,In Service,5,11,6,-103.389242, C. Pino Suárez esquina C. López Cotilla,20.726558
+ZPN-012,In Service,8,19,11,-103.39031, C. Pino Suárez esquina Av. Juan Pablo II,20.728446
+ZPN-013,In Service,13,23,9,-103.391894, C. Eva Briseño esquina C. Javier Mina,20.720438
+ZPN-014,In Service,4,11,7,-103.390802, C. Juan Manuel esquina Pino Suárez,20.724044
+ZPN-015,In Service,7,11,4,-103.387365, C. Sarcófago esquina C. Panteon,20.725261
+ZPN-016,In Service,11,19,8,-103.3902, Av. Hidalgoesquina C. Emiliano Zapata,20.721643
+ZPN-017,In Service,7,15,8,-103.388657, C. Juan Manuel esquina C. Pedro Moreno,20.72374
+ZPN-018,In Service,8,23,15,-103.386286, Av. Juan Pablo II esquina C. Santa Lucía,20.727068
+ZPN-020,In Service,8,15,7,-103.386942, Av. Aurelio Ortega esquina Av. Laureles,20.721039
+ZPN-021,In Service,11,15,4,-103.384156, Blvrd. Panamericano esquina C. Santa Mónica,20.72832
+ZPN-022,In Service,10,15,4,-103.383147, Av. Aurelio Ortega esquina C. Morelos,20.722123
+ZPN-023,In Service,4,11,7,-103.383614, C. Juan Diego esquina C. Sarcófago,20.72489
+ZPN-024,In Service,8,11,3,-103.381901, Manuel H. Alatorre esquina C. Industria,20.72356
+ZPN-025,In Service,6,15,9,-103.388162, C. Pedro Moreno esquina C. Jesus García,20.727913
+ZPN-027,In Service,3,11,8,-103.388629, C. 5 de Mayo esquina C. Noviembre,20.720452
+ZPN-028,In Service,8,19,10,-103.398598, C. Ejido esquina C. Sabino Delgado,20.729724
+ZPN-029,In Service,4,15,11,-103.393858, C. La Villa esquina C. Cuauhtémoc,20.728147
+ZPN-030,In Service,3,15,12,-103.399976, C. Francisco Sarabia esquina C. Libertad,20.727381
+ZPN-031,In Service,5,19,14,-103.40945, C. Niño Obreroesquina Calz. Lázaro Cárdenas,20.67342
+ZPN-032,In Service,5,19,14,-103.40641, Calz. Lázaro Cárdenas esquina Av. San Francisco,20.67195
+ZPN-033,In Service,8,15,7,-103.40458, Calz. Lázaro Cárdenas esquina Av. San Ignacio,20.6707
+ZPN-034,In Service,4,19,15,-103.40968, C. San Demetrio esquina C. Niño Obrero,20.66984
+ZPN-035,In Service,3,11,8,-103.40495, C. San Juan Bosco esquina Av. San Ignacio,20.66844
+ZPN-036,In Service,9,19,10,-103.40953, C. Niño Obrero esquina C. José María Robles,20.66731
+ZPN-037,In Service,3,15,12,-103.40335, Av. San Ignacio esquina Av. Guadalupe,20.66677
+ZPN-038,In Service,2,11,9,-103.40662, C. Santa Rita esquina Av. Guadalupe,20.66581
+ZPN-039,In Service,1,19,18,-103.4079076, C. Parque Juan Diego esquina C. Niño Obrero,20.66312806
+ZPN-040,In Service,8,15,7,-103.4037559, C. Santa María esquina C. árbol,20.66033761
+ZPN-041,In Service,4,11,7,-103.404, C. 12 de Diciembre esquina C. Parque Juan Diego,20.66463
+ZPN-042,In Service,3,14,11,-103.4065612, C. Tonatiuh esquina Av. Tizoc,20.65925105
+ZPN-043,In Service,6,11,4,-103.40195, C. Ermita esquina C. Del árbol,20.65938
+ZPN-045,In Service,8,15,7,-103.40464, Av.Tizoc esquina C. Iztaccíhuatl,20.65701
+ZPN-046,In Service,6,19,13,-103.397725, Av. Cubilete esquina Av. Adolfo López Mateos,20.656866
+ZPN-047,In Service,10,15,4,-103.40134, Av. Tizoc esquina Av. Adolfo López Mateos,20.65381
+TLQ-001,In Service,2,19,17,-103.31948, Blvrd Gral. Marcelino García Barragán esquina C. Rio Tajo,20.64483
+TLQ-002,In Service,2,15,13,-103.3163317, C. Juárez esquina Av. Niños Héroes,20.6383352
+TLQ-003,In Service,6,15,9,-103.31366, C. Contreras Medellín esquina C. Donato Guerra,20.64193
+TLQ-004,In Service,6,15,9,-103.3106, C. Donato Guerra esquina C. Obregón,20.64185
+TLQ-005,In Service,6,15,8,-103.30651, C. Zalatitán esquina C. Jalisco,20.64188
+TLQ-006,In Service,6,15,9,-103.30281, C. Zalatitán esquina Av. Francisco Silva Romero,20.64174
+TLQ-007,In Service,3,15,11,-103.31716, Blvrd. Gral. Marcelino García Barragán esquina C. Donato Guerra,20.64176
+TLQ-008,In Service,10,15,5,-103.31334, C. Juárez esquina C. Francisco de Miranda,20.63841
+TLQ-009,In Service,4,15,11,-103.31148, C. Progreso esquina C. Juárez,20.63816
+TLQ-010,In Service,5,15,10,-103.30952, C. Zaragoza esquina C. Emilio Carranza,20.63834
+TLQ-011,In Service,4,15,10,-103.30465, C. Jalisco esquina C. Hidalgo,20.63922
+TLQ-012,In Service,9,15,6,-103.3019, C. Paseo Don Bosco esquina C. Tonalá,20.63613
+GDL-087,In Service,8,15,7,-103.37333, Av. Américas esquina Av. López Mateos,20.69493
+GDL-088,In Service,2,15,13,-103.36773, Av. Plan de San Luis esquina C. Andrés Teran,20.6972
+GDL-089,In Service,2,11,9,-103.35699, C. Juan Álvarez esquina C. Cruz Verde,20.68456
+GDL-090,In Service,9,19,10,-103.35519, Calz. Federalismo esquina C. Durango,20.69865
+GDL-091,In Service,6,15,9,-103.349382, C. Magisterio esquina Av. Manuel Ávila Camacho,20.696097
+GDL-092,In Service,12,15,3,-103.3549492, Calz. Federalismo esquina Av. Plan de San Luis,20.69610588
+GDL-093,In Service,15,15,0,-103.37298, C. H. Colegio Militar esquina Av. Américas,20.69311
+GDL-094,In Service,6,15,8,-103.36757, C. Manuel Cambre esquina C. Andrés Teran,20.69324
+GDL-095,In Service,15,19,4,-103.35037, Glorieta Av. De los Maestros,20.69306
+GDL-096,In Service,9,19,10,-103.35071, C. Jesús García esquina C. Jesús González Ortega,20.6891
+GDL-097,In Service,5,19,13,-103.3582, C. José María Vigil esquina C. Juan N. Cumplido,20.68981
+GDL-098,In Service,9,19,10,-103.354209, Calz. Federalismo esquina Av. De los Maestros,20.693072
+GDL-099,In Service,6,11,5,-103.350525, C. Gral. Eulogio Parra esquina C. González Ortega,20.687196
+GDL-100,In Service,2,15,13,-103.37082, C. Ayuntamiento esquina C. Alfredo R. Plasencia,20.69269
+GDL-101,In Service,2,15,13,-103.37486, C. Amado Nervo esquina C. José María Vigil,20.68969
+GDL-102,In Service,2,10,8,-103.37071, C. José María Vigil esquina C. Manuel M. Dieguez,20.68985
+GDL-103,In Service,5,15,10,-103.365814, C. José Clemente Orozco esquina C. Jesús García,20.68861
+GDL-104,In Service,2,19,17,-103.34853, C. Pedro Loza esquina Av. Manuel Acuña,20.68348
+GDL-105,In Service,9,11,2,-103.34601, C. Pino Suárez esquina C. Joaquin Angulo,20.6822
+ status,In Service,6,15,9,-103.34526, C. Juan álvarez esquina C. Belén,20.68465
+GDL-107,In Service,10,15,5,-103.353973, Calz. Federalismo esquina C. José María Vigil,20.68981
+GDL-108,In Service,11,11,0,-103.33964, C. Hospital esquina C. Alameda,20.68586
+GDL-109,In Service,2,19,17,-103.37363, C. Gral. Eulogio Parra esquina Av. Américas,20.68725
+GDL-110,In Service,8,10,2,-103.37084, C. Manuel M. Dieguez esquina C. Gral. Eulogio Parra,20.68723
+GDL-111,In Service,15,15,0,-103.336305, C. José Palomar esquina C. Hospital,20.686228
+GDL-112,In Service,1,11,9,-103.36582, C. José Clemente Orozco esquina C. General Eulogio Parra,20.687
+GDL-113,In Service,11,15,4,-103.3627938, C. Ghilardi esquina C. Arista,20.68765483
+GDL-114,In Service,4,15,11,-103.3361, C. Monte Cáucaso esquina C. Alameda,20.68925
+GDL-115,In Service,5,15,10,-103.35408, Calz. Federalismo esquina C. Francisco Zarco,20.68605
+GDL-116,In Service,2,11,9,-103.37989, Av. Manuel Acuña esquina C. Pablo Villaseñor,20.68447
+GDL-117,In Service,5,11,6,-103.37653, Av. Manuel Acuña esquina C. Fray Francisco Frejes,20.68427
+GDL-118,In Service,5,15,10,-103.38197, C. Antonio de León esquina C. Garibaldi,20.68168
+GDL-119,In Service,6,11,5,-103.3785, C. Francisco Rojas González esquina C. Garibaldi,20.68153
+GDL-120,In Service,6,11,4,-103.37537, C. Agustín de la Rosa esquina C. Garibaldi,20.68132
+GDL-121,In Service,3,19,16,-103.38253, C. Tomás V. Gómez esquina Av. México,20.67914
+GDL-122,In Service,2,15,13,-103.37926, Av. México esquina C. Fray Luis De Palacio,20.67947
+GDL-123,In Service,2,11,9,-103.376, C. Aurelio Luis Gallardo esquina Av. México,20.67945
+GDL-124,In Service,4,15,11,-103.38387, C. Severo Díaz esquina C. Justo Sierra,20.67741
+GDL-125,In Service,4,15,11,-103.37993, C. Pablo Villaseñor esquina Av. Miguel Hidalgo,20.67691
+GDL-126,In Service,4,11,7,-103.37606, C. Aurelio Luis Gallardo esquina Av. Miguel Hidalgo,20.67647
+GDL-127,In Service,6,15,9,-103.38488, Av. Ignacio L. Vallarta esquina Av. De Los Arcos,20.67438
+GDL-128,In Service,15,23,8,-103.38409, Av José María Morelos esquina C. Emilio Castelar,20.67554
+GDL-129,In Service,4,19,15,-103.37998, C. Lope de Vega esquina Av. Ignacio L. Vallarta,20.67455
+GDL-130,In Service,4,11,7,-103.37618, C. Juan Ruiz de Alarcón esquina Av. Ignacio L. Vallarta,20.67448
+GDL-131,In Service,6,19,13,-103.384, C. Emilio Castelar esquina Av. De la Paz,20.67206
+GDL-132,In Service,10,11,1,-103.37997, C. Lope de Vega esquina Av. De la Paz,20.67207
+GDL-133,In Service,9,15,6,-103.37608, C. Juan Ruíz de Alarcón esquina Av. De la Paz,20.67189
+GDL-134,In Service,2,19,17,-103.38448, C. Agustín Yáñez esquina C. Francisco Ugarte,20.67016
+GDL-135,In Service,8,11,3,-103.3731, C. Victoriano Agüeros esquina Av. Unión,20.66868
+GDL-136,In Service,5,19,14,-103.37983, C. Lope de Vega esquina C. Efraín González Luna,20.66927
+GDL-137,In Service,4,11,7,-103.37623, C. Juan Ruíz de Alarcón esquina C. Efraín González Luna,20.66957
+GDL-138,In Service,3,19,16,-103.39134, C. de la Nebulosa esquina C. Placeres,20.66557
+GDL-139,In Service,5,15,8,-103.38863, C. Firmamento esquina Av. Niños Héroes,20.66667
+GDL-140,In Service,8,11,3,-103.38488, C. Constelación esquina C. Los Arcos,20.66816
+GDL-141,In Service,10,15,5,-103.37621, C. Juan Ruíz de Alarcón esquina C. Agustín Yáñez,20.66702
+GDL-142,In Service,14,19,5,-103.38855, C. De la Nebulosa esquina C. Firmamento,20.6647
+GDL-143,In Service,12,23,11,-103.38407, C. Eclipse esquina Av. de Los Arcos,20.6625
+GDL-144,In Service,1,11,10,-103.394307, C. Primo Feliciano Velázquez esquina C. San Gabriel,20.669931
+GDL-145,In Service,9,18,9,-103.3947, C. San Miguel esquina Av. San Francisco,20.66736
+GDL-146,In Service,4,11,7,-103.3988986, Av. Guadalupe esquina C. Boturini,20.6662882
+GDL-147,In Service,5,15,9,-103.39654, Calz. Lázaro Cárdenas esquina Av. Guadalupe,20.66623
+GDL-148,In Service,9,19,10,-103.39788, C. San Rafael esquina Av. Tepeyac,20.66501
+GDL-149,In Service,5,11,5,-103.39388, Calz. Lázaro Cárdenas esquina Av. Adolfo López Mateos,20.66511
+GDL-150,In Service,6,11,5,-103.3925006, C. Asunción esquina Av. Chapalita,20.66131166
+GDL-151,In Service,2,15,13,-103.39496, C. Capuchinas esquina Av. Chapalita,20.66
+GDL-152,In Service,3,19,16,-103.38884, Parque de las Estrellas esquina C. Orión,20.65931
+GDL-153,In Service,4,11,5,-103.39092, C. Crepúsculo esquina Av. Tonantzin,20.65846
+GDL-154,In Service,7,15,8,-103.39363, C. Capuchinas esquina Av. Las Rosas,20.65761
+GDL-155,In Service,3,19,16,-103.3883797, Parque de las Estrellas esquina Av. Mariano Otero,20.65712973
+GDL-156,In Service,5,15,10,-103.38956, C. Crepúsculo esquina Av. Mariano Otero,20.6564
+GDL-157,In Service,8,15,7,-103.38957,Av. Mariano Otero esquina Av. Las Rosas,20.65454
+GDL-158,In Service,8,15,7,-103.38957, Av. Faro esquina Av. Las Rosas,20.65158
+GDL-159,In Service,3,19,15,-103.33357, C. Guadalupe Victoria esquina Av. Del Ejercito,20.66468
+GDL-160,In Service,6,11,5,-103.3315, C. Dr. Silverio Garcia esquina Blvrd. Gral. Marcelino García Barragán,20.66114
+GDL-161,In Service,11,19,7,-103.33055, C. Rio Usumacinta esquina Blvrd. Gral. Marcelino García Barragán,20.65925
+GDL-162,In Service,1,19,18,-103.33046, C. Rio Tuxpan esquina C. Salvador Lopez Chavez,20.65721
+GDL-163,In Service,3,15,9,-103.32898, C. Corregidora esquina Blvrd. Gral. Marcelino García Barragán,20.657817
+GDL-164,In Service,3,15,12,-103.32186, Av. Olímpica esquinaC. José Rolon,20.655
+GDL-165,In Service,8,19,11,-103.32553, C. Rio Panucoesquina Blvrd. Gral. Marcelino García Barragán,20.65251
+GDL-166,In Service,12,19,7,-103.32719, C. Rio Principal esquina Blvrd. Gral. Marcelino García Barragán,20.65475
+GDL-167,In Service,8,15,7,-103.32356, C. Rio San Juan de Dios esquina Blvrd. Gral. Marcelino García Barragán,20.64962
+GDL-168,In Service,8,19,11,-103.31939, Av. Rio Nilo esquina C. Ramón Pacheco,20.64874
+GDL-169,In Service,11,19,8,-103.32147, Blvrd. Gral Marcelino García Barragán esquina C. Rio Zapotlanejo,20.64707
+GDL-170,In Service,7,15,8,-103.30619, C. Relojerosesquina C. Chamizal,20.64698
+GDL-171,In Service,7,19,12,-103.3102, C. Maquinistas esquina C. San Rafael,20.6461
+GDL-172,In Service,6,19,13,-103.30678, C. Chamizal esquina Av. Rio Nilo,20.64434
+GDL-173,In Service,9,19,10,-103.30518, C. Caballerango esquina C. Caporales,20.64504
+GDL-174,In Service,3,11,8,-103.4003, C. Fray Juan de Zumárraga esquina Av. Tepeyac,20.6641
+GDL-175,In Service,8,11,2,-103.3981344, C. Ermita esquina C. San Uriel,20.66234072
+GDL-176,In Service,7,11,3,-103.3976249, C. San Bonifacio esquina Paseo de los Benedictinos,20.67276201
+GDL-177,In Service,8,15,7,-103.37657, C. Fray Francisco Frejes esquina C. Francisco Zarco,20.68669
+GDL-178,In Service,4,15,11,-103.333746,C. Salvador Quevedo y Zubieta esquina C. López Portillo,20.685108
+GDL-179,In Service,23,23,0,-103.333223, C. Monte Cáucaso esquina C. Sierra Nevada,20.687704
+GDL-180,In Service,10,11,1,-103.33467, C. Montes Pirineos esquina C. Salvador Quevedo y Zubieta,20.68692
+GDL-181,In Service,4,11,7,-103.36322, C. Ignacio Ramírez esquina Av. Plan de San Luis,20.69705
